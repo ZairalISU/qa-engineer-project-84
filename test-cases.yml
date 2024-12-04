@@ -517,11 +517,11 @@
     Сайт должен  корректно отрабатывать 
 
 - summary: |
-    Проверка работоспособности на браузере Edge 
+    Проверка работоспособности на браузере Safari 
   requirement: |
-    Проверка работы сайта на браузере Edge
+    Проверка работы сайта на браузере Safari
   prerequisites: |
-    Открыть браузер Edge
+    Открыть браузер Safari
   test-data: |
     Ссылка на сайт https://hexlet-products-store.vercel.app/   
   steps:
